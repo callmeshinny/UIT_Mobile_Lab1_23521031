@@ -1,0 +1,13 @@
+<resources>
+    <color name="bg">#FBF5F7</color>
+    <color name="card">#FFFFFF</color>
+    <color name="primary">#8B5B72</color>
+    <color name="primary_dark">#73465C</color>
+    <color name="text_main">#362C31</color>
+    <color name="text_muted">#7C7076</color>
+    <color name="border">#E6DDE1</color>
+    <color name="chip">#EFE6EA</color>
+    <color name="star">#F1BE23</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pink_soft">#EF8EA4</color>
+</resources>

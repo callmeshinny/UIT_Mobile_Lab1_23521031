@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile Lab 1</string>
+    <string name="brand_name">Nguyen Le Nhu Ngoc</string>
+    <string name="about">About</string>
+    <string name="skills">Skills</string>
+    <string name="projects">Projects</string>
+    <string name="contact">Contact</string>
+    <string name="contact_me">Contact me</string>
+    <string name="hello_title">Hello! I\'m Nguyen Le Nhu Ngoc 👋</string>
+    <string name="work_with">What I work with</string>
+    <string name="built_title">Things I\'ve built or contributed to</string>
+    <string name="work_together">Let\'s work together</string>
+</resources>
